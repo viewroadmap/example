@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "name": "Feature 1",
+            "status": "released",
+            "assignees": [
+                "AceKiron"
+            ],
+            "version": "1.0.0",
+            "priority": "normal"
+        },
+        {
+            "name": "Feature 2",
+            "status": "beta",
+            "assignees": [
+                "AceKiron"
+            ],
+            "version": "1.0.1",
+            "priority": "critical"
+        },
+        {
+            "name": "Feature 3",
+            "status": "indev",
+            "priority": "high"
+        },
+        {
+            "name": "Feature 4",
+            "status": "pending",
+            "assignees": [
+                "AceKiron"
+            ],
+            "priority": "low"
+        },
+    ]
+}
