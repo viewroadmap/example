@@ -13,7 +13,8 @@
             "name": "Feature 2",
             "status": "beta",
             "assignees": [
-                "AceKiron"
+                "AceKiron",
+                "test2"
             ],
             "version": "1.0.1",
             "priority": "critical"
@@ -27,7 +28,8 @@
             "name": "Feature 4",
             "status": "pending",
             "assignees": [
-                "AceKiron"
+                "AceKiron",
+                "test"
             ],
             "priority": "low"
         }
